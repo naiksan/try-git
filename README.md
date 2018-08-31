@@ -1,3 +1,3 @@
 # try-git
 Try git
-Its a master
+Some random edits
